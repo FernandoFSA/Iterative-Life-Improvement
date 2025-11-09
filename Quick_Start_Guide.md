@@ -148,37 +148,22 @@ Find the best solutions for your chosen problem.
    - Why is that happening? _______________________________  
    - Why is that happening? _______________________________
 
-3. **Generate 10 solutions** to address the root cause:
+3. **Generate 5 solutions** to address the root cause:
 
 ```
-SOLUTION 1: ___________________________________
+SOLUTION: ___________________________________
 Effort: ___ Impact: ___ Priority: ___
 
-SOLUTION 2: ___________________________________
+SOLUTION: ___________________________________
 Effort: ___ Impact: ___ Priority: ___
 
-SOLUTION 3: ___________________________________  
+SOLUTION: ___________________________________  
 Effort: ___ Impact: ___ Priority: ___
 
-SOLUTION 4: ___________________________________
+SOLUTION: ___________________________________
 Effort: ___ Impact: ___ Priority: ___
 
-SOLUTION 5: ___________________________________
-Effort: ___ Impact: ___ Priority: ___
-
-SOLUTION 6: ___________________________________
-Effort: ___ Impact: ___ Priority: ___
-
-SOLUTION 7: ___________________________________
-Effort: ___ Impact: ___ Priority: ___
-
-SOLUTION 8: ___________________________________
-Effort: ___ Impact: ___ Priority: ___
-
-SOLUTION 9: ___________________________________
-Effort: ___ Impact: ___ Priority: ___
-
-SOLUTION 10: __________________________________
+SOLUTION: ___________________________________
 Effort: ___ Impact: ___ Priority: ___
 ```
 
@@ -197,19 +182,14 @@ Effort: ___ Impact: ___ Priority: ___
 - Why don't know? → Never learned meal prep basics
 
 **Solutions**:
-1. Set meal time alarms: Effort(1) Impact(3) = **3.0**  
-2. Prep Sunday groceries: Effort(2) Impact(5) = **2.5**
-3. Learn basic meal prep: Effort(3) Impact(4) = **1.33**
-4. Use meal planning app: Effort(1) Impact(3) = **3.0**
-5. Cook in batches: Effort(3) Impact(3) = **1.0**
-6. Keep healthy snacks ready: Effort(1) Impact(2) = **2.0**
-7. Join meal prep community online: Effort(2) Impact(2) = **1.0**
-8. Set up automatic grocery delivery: Effort(2) Impact(4) = **2.0**
-9. Find 5 go-to easy recipes: Effort(2) Impact(4) = **2.0**
-10. Create morning routine checklist: Effort(1) Impact(2) = **2.0**
+- Learn basic meal prep: Effort(3) Impact(4) = **1.33**
+- Set meal time alarms: Effort(1) Impact(3) = **3.0**  
+- Prep Sunday groceries: Effort(2) Impact(5) = **2.5**
+- Cook in batches: Effort(3) Impact(3) = **1.0**
+- Use meal planning app: Effort(1) Impact(3) = **3.0**
 
-Total priority: 19.83, 80% = 15.86
-**Selected**: Alarms(3.0) + App(3.0) + Sunday prep(2.5) + Easy recipes(2.0) + Auto delivery(2.0) + Snacks(2.0) + Checklist(2.0) = 16.5 ✓
+Total priority: 10.83, 80% = 8.66
+**Selected**: Meal alarms(3.0) + App(3.0) + Sunday prep(2.5) = 8.5 ✓
 
 ---
 
